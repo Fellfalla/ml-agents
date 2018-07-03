@@ -26,6 +26,8 @@ TagManager:
   - pyramid
   - switchOn
   - stone
+  - playerGoal
+  - opponentGoal
   layers:
   - Default
   - TransparentFX

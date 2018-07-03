@@ -12,18 +12,18 @@ from unitytrainers.trainer_controller import TrainerController
 if __name__ == '__main__':
     print('''
     
-                    ▄▄▄▓▓▓▓
-               ╓▓▓▓▓▓▓█▓▓▓▓▓
-          ,▄▄▄m▀▀▀'  ,▓▓▓▀▓▓▄                           ▓▓▓  ▓▓▌
-        ▄▓▓▓▀'      ▄▓▓▀  ▓▓▓      ▄▄     ▄▄ ,▄▄ ▄▄▄▄   ,▄▄ ▄▓▓▌▄ ▄▄▄    ,▄▄
-      ▄▓▓▓▀        ▄▓▓▀   ▐▓▓▌     ▓▓▌   ▐▓▓ ▐▓▓▓▀▀▀▓▓▌ ▓▓▓ ▀▓▓▌▀ ^▓▓▌  ╒▓▓▌
-    ▄▓▓▓▓▓▄▄▄▄▄▄▄▄▓▓▓      ▓▀      ▓▓▌   ▐▓▓ ▐▓▓    ▓▓▓ ▓▓▓  ▓▓▌   ▐▓▓▄ ▓▓▌
-    ▀▓▓▓▓▀▀▀▀▀▀▀▀▀▀▓▓▄     ▓▓      ▓▓▌   ▐▓▓ ▐▓▓    ▓▓▓ ▓▓▓  ▓▓▌    ▐▓▓▐▓▓
-      ^█▓▓▓        ▀▓▓▄   ▐▓▓▌     ▓▓▓▓▄▓▓▓▓ ▐▓▓    ▓▓▓ ▓▓▓  ▓▓▓▄    ▓▓▓▓`
-        '▀▓▓▓▄      ^▓▓▓  ▓▓▓       └▀▀▀▀ ▀▀ ^▀▀    `▀▀ `▀▀   '▀▀    ▐▓▓▌
-           ▀▀▀▀▓▄▄▄   ▓▓▓▓▓▓,                                      ▓▓▓▓▀
-               `▀█▓▓▓▓▓▓▓▓▓▌
-                    ¬`▀▀▀█▓
+                    oooHHHH
+               ,HHHHHHOHHHHH
+          ,ooom°°°'  ,HHH°HHo                           HHH  HHL
+        oHHH°'      oHH°  HHH      oo     oo ,oo oooo   ,oo oHHLo ooo    ,oo
+      oHHH°        oHH°   JHHL     HHL   JHH JHHH°°°HHL HHH °HHL° ^HHL  ,HHL
+    oHHHHHooooooooHHH      H°      HHL   JHH JHH    HHH HHH  HHL   JHHo HHL
+    °HHHH°°°°°°°°°°HHo     HH      HHL   JHH JHH    HHH HHH  HHL    JHHJHH
+      ^OHHH        °HHo   JHHL     HHHHoHHHH JHH    HHH HHH  HHHo    HHHH`
+        '°HHHo      ^HHH  HHH       ^°°°° °° ^°°    `°° `°°   '°°    JHHL
+           °°°°Hooo   HHHHHH,                                      HHHH°
+               `°OHHHHHHHHHL
+                    -`°°°OH
                     
 ''')
 
